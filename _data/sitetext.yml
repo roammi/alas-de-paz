@@ -170,8 +170,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    title: Fundación Alas de Paz
+    text: Sembrando paz en el corazón de los niños
     button: Ver más
     buttonlink: "#servicios"
 
