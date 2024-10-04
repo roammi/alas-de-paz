@@ -149,7 +149,7 @@ en: &DEFAULT_EN
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/share/qGD9muUgZKdGgbKu/?mibextid=qi2Omg
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
@@ -308,7 +308,7 @@ es: &DEFAULT_ES
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/share/qGD9muUgZKdGgbKu/?mibextid=qi2Omg
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
