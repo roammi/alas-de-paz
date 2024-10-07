@@ -182,13 +182,13 @@ es: &DEFAULT_ES
     list:
       - title: "Misión"
         desc: "Somos una fundación cristiana que promueve el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad."
-        icon: fa-solid fa-handshake-angle #find more at https://fontawesome.com/icons
+        icon: fa fa-handshake-angle #find more at https://fontawesome.com/icons
       - title: "Visión"
         desc: "Al 2030 ser una fundación sostenible y reconocida en la comunidad por la formación de líderes íntegros y preparados."
-        icon: fa-solid fa-hands-holding-child
-      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      #  desc: "Su descripción aquí, soporte completo de **Markdown**"
-      #  icon: fab fa-markdown
+        icon: fa fa-hands-holding-child
+      - title: "¿Quiénes somos?" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Somos un equipo que invierte tiempo, recursos y conocimientos para sembrar **paz** en el corazón de niños y jóvenes. Nos encontramos en la zona sud, a 200 metros del puente Tamborada en Cochabamba-Bolivia."
+        icon: fa fa-person-chalkboard
 
   portfolio:
     title: "Portafolio"
