@@ -178,7 +178,7 @@ es: &DEFAULT_ES
 
   services:
     title: "Información"
-    #text: "Lorem ipsum"
+    text: "Lorem ipsum"
     section: informacion
     list:
       - title: "Equipo" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
