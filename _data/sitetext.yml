@@ -174,15 +174,15 @@ es: &DEFAULT_ES
     title: Fundación Alas de Paz
     text: <h6><i>Sembrando paz en el corazón de los niños</i></h6>
     button: Conoce más
-    buttonlink: "#quienes"
+    buttonlink: "#informacion"
 
-  quienes:
-    title: "¿Quiénes somos? y ¿qué hacemos?"
+  informacion:
+    title: "Información"
     #text: "Lorem ipsum"
-    section: quienes
+    section: informacion
     list:
-      - title: "" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Somos un equipo que invierte tiempo, recursos y conocimientos para sembrar **paz** en el corazón de niños y jóvenes. Nos encontramos en la zona sud, a 200 metros del puente Tamborada en Cochabamba-Bolivia."
+      - title: "Equipo" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Somos un equipo apasionado por sembrar **paz** en el corazón de niños y jóvenes. Invertimos tiempo, recursos y conocimientos para avanzar en nuestra misión."
         icon: fa fa-person-chalkboard
       - title: "Misión"
         desc: "Somos una fundación cristiana que promueve el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad."
