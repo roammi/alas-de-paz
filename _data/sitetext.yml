@@ -171,13 +171,12 @@ en-AU:
 es: &DEFAULT_ES
   header:
     logo: assets/img/logo-alas-de-paz.png
-    title: Fundación Alas de Paz
-    title: <i>Sembrando paz en el corazón de los niños</i>
-    # text: Sembrando paz en el corazón de los niños
+    title: ¡Bienvenido!
+    text: ![Fundación Alas de Paz](assets/img/logo-alas-de-paz.png)
     button: Conoce más
     buttonlink: "#informacion"
 
-  informacion:
+  services:
     title: "Información"
     #text: "Lorem ipsum"
     section: informacion
@@ -193,15 +192,15 @@ es: &DEFAULT_ES
         icon: fa fa-hands-holding-child
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+    title: "Programas"
+    text: "La fundación cuenta con 3 líneas programáticas:"
+    section: programas
+    closebutton: "Cerrar Programa"
 
   timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
+    title: "Nuestra Historia"
+    text: "Empezamos con la mirada clara en sembrar paz en la vida de niños."
+    section: historia
     # left is the default
     #start_align: "left"
     events:
@@ -230,10 +229,10 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+    title: "Únete"
+    text: "Se parte de hacer crecer 🌳 el impacto impacto en nuevas generaciones para Bolivia y el mundo."
+    body: "- Apoya con QR <br/>- Contactándonos al whatsapp"
+    section: unete
 
   clients:
     section: clientes
