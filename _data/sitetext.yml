@@ -171,7 +171,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido!
-    text: ![Fundación Alas de Paz](assets/img/logo-alas-de-paz.png)
+    #text: ![Fundación Alas de Paz](assets/img/logo-alas-de-paz.png)
     button: Conoce más
     buttonlink: "#informacion"
 
