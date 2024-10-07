@@ -170,25 +170,26 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
+    logo: assets/img/logo-alas-de-paz.png
     title: Fundación Alas de Paz
-    text: Sembrando paz en el corazón de los niños
-    button: Ver más
-    buttonlink: "#servicios"
+    text: <h6><i>Sembrando paz en el corazón de los niños</i></h6>
+    button: Conoce más
+    buttonlink: "#quienes"
 
-  services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
+  quienes:
+    title: "¿Quiénes somos? y ¿qué hacemos?"
+    #text: "Lorem ipsum"
+    section: quienes
     list:
+      - title: "" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Somos un equipo que invierte tiempo, recursos y conocimientos para sembrar **paz** en el corazón de niños y jóvenes. Nos encontramos en la zona sud, a 200 metros del puente Tamborada en Cochabamba-Bolivia."
+        icon: fa fa-person-chalkboard
       - title: "Misión"
         desc: "Somos una fundación cristiana que promueve el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad."
         icon: fa fa-handshake-angle #find more at https://fontawesome.com/icons
       - title: "Visión"
         desc: "Al 2030 ser una fundación sostenible y reconocida en la comunidad por la formación de líderes íntegros y preparados."
         icon: fa fa-hands-holding-child
-      - title: "¿Quiénes somos?" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Somos un equipo que invierte tiempo, recursos y conocimientos para sembrar **paz** en el corazón de niños y jóvenes. Nos encontramos en la zona sud, a 200 metros del puente Tamborada en Cochabamba-Bolivia."
-        icon: fa fa-person-chalkboard
 
   portfolio:
     title: "Portafolio"
