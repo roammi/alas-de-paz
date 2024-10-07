@@ -38,20 +38,20 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Información"
-      section: informacion
-    - title: "Portafolio"
-      section: portafolio
     - title: "Sobre Nosotros"
       section: nosotros
-    - title: "Cronología"
-      section: cronologia
+    - title: "Programas"
+      section: programas
+    - title: "Únete"
+      section: unete
+    - title: "Nuestra historia"
+      section: historia
     - title: "Equipo"
       section: equipo
-    - title: "Contáctenos"
+    - title: "Contáctanos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    #- title: "Fuente de la plantilla"
+    #  url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
