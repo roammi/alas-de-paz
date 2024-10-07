@@ -180,15 +180,15 @@ es: &DEFAULT_ES
     text: "Lorem ipsum"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+      - title: "Misión"
+        desc: "Somos una fundación cristiana que promueve el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad."
+        icon: fa-solid fa-handshake-angle #find more at https://fontawesome.com/icons
+      - title: "Visión"
+        desc: "Al 2030 ser una fundación sostenible y reconocida en la comunidad por la formación de líderes íntegros y preparados."
+        icon: fa-solid fa-hands-holding-child
+      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      #  desc: "Su descripción aquí, soporte completo de **Markdown**"
+      #  icon: fab fa-markdown
 
   portfolio:
     title: "Portafolio"
