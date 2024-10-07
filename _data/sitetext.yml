@@ -172,7 +172,8 @@ es: &DEFAULT_ES
   header:
     logo: assets/img/logo-alas-de-paz.png
     title: Fundación Alas de Paz
-    text: <h6><i>Sembrando paz en el corazón de los niños</i></h6>
+    title: <i>Sembrando paz en el corazón de los niños</i>
+    # text: Sembrando paz en el corazón de los niños
     button: Conoce más
     buttonlink: "#informacion"
 
