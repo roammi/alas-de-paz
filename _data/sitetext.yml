@@ -171,7 +171,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido!
-    text: '<img src="assets/img/logo-alas-de-paz.png" alt="Fundación Alas de Paz" style="max-width: 350px; height: auto;">'
+    text: '<img src="assets/img/logo-alas-de-paz.png" alt="Fundación Alas de Paz" style="max-width: 100%; height: auto;">'
     button: Conoce más
     buttonlink: "#informacion"
 
@@ -193,7 +193,7 @@ es: &DEFAULT_ES
   portfolio:
     title: "Programas"
     text: "La fundación cuenta con 3 líneas programáticas:"
-    section: program
+    section: programas
     closebutton: "Cerrar Programa"
 
   timeline:
