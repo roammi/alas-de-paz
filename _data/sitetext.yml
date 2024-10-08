@@ -189,10 +189,10 @@ es: &DEFAULT_ES
       - title: "Visión"
         desc: "Al 2030 ser una fundación sostenible y reconocida en la comunidad por la formación de líderes íntegros y preparados."
         icon: fas fa-users
-
+        
   portfolio:
     title: "Programas"
-    text: "La fundación cuenta con 3 líneas programáticas:"
+    text: "La fundación cuenta con 3 líneas programáticas:."
     section: programas
     closebutton: "Cerrar Programa"
 
