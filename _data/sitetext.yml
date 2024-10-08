@@ -182,13 +182,13 @@ es: &DEFAULT_ES
     list:
       - title: "Equipo" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Somos un equipo apasionado por sembrar **paz** en el corazón de niños y jóvenes. Invertimos tiempo, recursos y conocimientos para avanzar en nuestra misión."
-        icon: fa fa-person-chalkboard
+        icon: fas fa-person-chalkboard
       - title: "Misión"
         desc: "Somos una fundación cristiana que promueve el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad."
-        icon: fa fa-handshake-angle #find more at https://fontawesome.com/icons
+        icon: fas fa-handshake-angle #find more at https://fontawesome.com/icons
       - title: "Visión"
         desc: "Al 2030 ser una fundación sostenible y reconocida en la comunidad por la formación de líderes íntegros y preparados."
-        icon: fa fa-hands-holding-child
+        icon: fas fa-hands-holding-child
 
   portfolio:
     title: "Programas"
