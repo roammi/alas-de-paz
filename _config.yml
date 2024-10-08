@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://www.alasdepaz.org/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Fundación Alas de Paz
 email      : Fundacionalasdepaz@gmail.com #el correo a donde ira los mensajes de contacto
