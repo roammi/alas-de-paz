@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    #- title: "Theme Source"
+    #  url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -38,10 +38,10 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Sobre Nosotros"
+    - title: "Sobre nosotros"
       section: informacion
-    - title: "Nuestros programas"
-      section: programas
+    - title: "Programas"
+      section: portafolio
     - title: "Únete"
       section: unete
     - title: "Nuestra historia"
