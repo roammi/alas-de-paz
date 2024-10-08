@@ -39,7 +39,7 @@ en-AU:
 es: &DEFAULT_ES
   nav:
     - title: "Sobre Nosotros"
-      section: nosotros
+      section: informacion
     - title: "Programas"
       section: programas
     - title: "Únete"
