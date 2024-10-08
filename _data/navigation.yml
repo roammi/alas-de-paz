@@ -41,7 +41,7 @@ es: &DEFAULT_ES
     - title: "Sobre nosotros"
       section: informacion
     - title: "Programas"
-      section: portafolio
+      section: programas
     - title: "Únete"
       section: unete
     - title: "Nuestra historia"
