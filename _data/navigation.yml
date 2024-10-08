@@ -40,8 +40,8 @@ es: &DEFAULT_ES
   nav:
     - title: "Sobre nosotros"
       section: informacion
-    - title: "Programas"
-      section: programas
+    - title: "Portafolio"
+      section: portafolio
     - title: "Únete"
       section: unete
     - title: "Nuestra historia"
