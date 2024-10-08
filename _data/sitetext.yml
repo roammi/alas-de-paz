@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
+    section: portfolio
     closebutton: "Close Project"
 
   timeline:
@@ -75,6 +75,7 @@ en: &DEFAULT_EN
     section: about
 
   clients:
+    title: "Our clients"
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -191,9 +192,9 @@ es: &DEFAULT_ES
         icon: fas fa-users
         
   portfolio:
-    title: "Programas"
-    text: "La fundación cuenta con 3 líneas programáticas:."
-    section: programas
+    title: "Portfolio"
+    text: "La fundación cuenta con 3 líneas programáticas."
+    section: portfolio
     closebutton: "Cerrar Programa"
 
   timeline:
@@ -234,7 +235,7 @@ es: &DEFAULT_ES
     section: unete
 
   clients:
-    title: Nuestros aliados
+    title: "Nuestros aliados"
     section: clientes
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -305,16 +306,16 @@ es: &DEFAULT_ES
     submit: "Enviar Mensaje"
 
   footer:
-    legal: "Política de Privacidad"
+    # legal: "Política de Privacidad"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
+      #- url: https://twitter.com
+      #  icon: "fab fa-twitter"
       - url: https://www.facebook.com/share/qGD9muUgZKdGgbKu/?mibextid=qi2Omg
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      #- url: https://linkedin.com
+      #  icon: "fab fa-linkedin-in"
+      #- url: https://github.com/raviriley/agency-jekyll-theme
+      #  icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 es-ES:
@@ -322,4 +323,4 @@ es-ES:
 es-CO:
   <<: *DEFAULT_ES
 es-BO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_ES 
