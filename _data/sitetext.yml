@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: portafolio
     closebutton: "Close Project"
 
   timeline:
