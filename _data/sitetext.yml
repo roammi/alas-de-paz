@@ -171,24 +171,24 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido!
-    text: '<img src="assets/img/logo-alas-de-paz.png" alt="Fundación Alas de Paz" style="width: 300px; height: auto;">'
+    text: '<img src="assets/img/logo-alas-de-paz.png" alt="Fundación Alas de Paz" style="width: 270px; height: auto;">'
     button: Conoce más
     buttonlink: "#informacion"
 
   services:
-    title: "Información"
-    text: "Lorem ipsum"
+    title: "Sobre Nosotros"
+    #text: "Lorem ipsum"
     section: informacion
     list:
-      - title: "Equipo" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "¿Quiénes somos?" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Somos un equipo apasionado por sembrar **paz** en el corazón de niños y jóvenes. Invertimos tiempo, recursos y conocimientos para avanzar en nuestra misión."
-        icon: fas fa-person-chalkboard
+        icon: fas fa-map-marker
       - title: "Misión"
         desc: "Somos una fundación cristiana que promueve el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad."
-        icon: fas fa-handshake-angle #find more at https://fontawesome.com/icons
+        icon: fas fa-child #find more at https://fontawesome.com/icons
       - title: "Visión"
         desc: "Al 2030 ser una fundación sostenible y reconocida en la comunidad por la formación de líderes íntegros y preparados."
-        icon: fas fa-hands-holding-child
+        icon: fas fa-users
 
   portfolio:
     title: "Programas"
@@ -234,22 +234,23 @@ es: &DEFAULT_ES
     section: unete
 
   clients:
+    title: Nuestros aliados
     section: clientes
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Compassion"
+        url: https://www.compassion.com
+        logo: assets/img/clients/Compassion_Logo.png
+      #- title: "designmodo"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/designmodo.jpg
+      #- title: "themeforest"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/themeforest.jpg
+      #- title: "Creative Market"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
