@@ -193,7 +193,7 @@ es: &DEFAULT_ES
   portfolio:
     title: "Programas"
     text: "La fundación cuenta con 3 líneas programáticas:."
-    section: portafolio
+    section: programas
     closebutton: "Cerrar Programa"
 
   timeline:
