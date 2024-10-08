@@ -14,15 +14,15 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://www.alasdepaz.org/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/proyectos" # the subpath of your site, e.g. /blog
 
 title      : Fundación Alas de Paz
 email      : Fundacionalasdepaz@gmail.com #el correo a donde ira los mensajes de contacto
 description: "Descripción" #descripción 
 author     : Fundación Alas de Paz
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+logo:     #optional, defaults to site title
+  path: assets\img\logo-alas-de-paz.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "es-BO" # See available languages in _data/sitetext.yml
