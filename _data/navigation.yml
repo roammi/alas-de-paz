@@ -40,7 +40,7 @@ es: &DEFAULT_ES
   nav:
     - title: "Sobre Nosotros"
       section: informacion
-    - title: "Programas"
+    - title: "Nuestros programas"
       section: programas
     - title: "Únete"
       section: unete
