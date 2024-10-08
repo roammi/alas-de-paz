@@ -192,10 +192,10 @@ es: &DEFAULT_ES
         icon: fas fa-users
         
   portfolio:
-    title: "Programas"
-    text: "La fundación cuenta con 3 líneas programáticas."
-    section: programas
-    closebutton: "Cerrar Programa"
+    title: "Portafolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portafolio
+    closebutton: "Cerrar Proyecto"
 
   timeline:
     title: "Nuestra Historia"
