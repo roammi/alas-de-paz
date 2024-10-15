@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Programa Educación Complementaria
+subtitle: Apoyo escolar, orientación vocacional y escuela para padres.
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: Ed. Compl.
 
 caption:
-  title: Explore
+  title: Educación Complementaria
   subtitle: Graphic Design
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+1. Éxito escolar
+2. Mi llamado
+3. Escuela de la crianza positiva 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Fecha: Octubre 2020
+- Estado: A empezar
 
