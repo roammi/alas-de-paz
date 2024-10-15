@@ -32,10 +32,10 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Programas"
+    text: "Tenemos 3 programas pilares de la fundación:"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Program"
 
   timeline:
     title: "Timeline"
@@ -192,10 +192,10 @@ es: &DEFAULT_ES
         icon: fas fa-users
         
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Programas"
+    text: "Tenemos 3 programas pilares de la fundación:"
     section: portafolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Cerrar Programa"
 
   timeline:
     title: "Nuestra Historia"
