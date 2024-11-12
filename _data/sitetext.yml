@@ -259,9 +259,21 @@ es: &DEFAULT_ES
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
+      - name: "Celso Marca"
+        role: "Presidente del Directorio"
+        image: assets/img/team/CelsoMarca.jpeg
+      - name: "María"
+        role: "Directorio de la Fundación"
+        image: assets/img/team/Maria.jpeg
+      - name: "Modesta"
+        role: "Directorio de la Fundación"
+        image: assets/img/team/ModestaVeliz.jpeg
+      - name: "Max"
+        role: "Directorio de la Fundación"
+        image: assets/img/team/Max.jpeg
       - name: "Equipo Alas de Paz"
-        role: "Personal de la Fundación"
-        image: assets/img/team/Equipo_Alas_de_Paz.jpeg
+        role: "Directorio de la Fundación"
+        image: assets/img/team/Equipo_Alas_de_Paz.JPG
   contact:
     title: "Contáctenos"
     text: "Lorem ipsum or call 123456789"
