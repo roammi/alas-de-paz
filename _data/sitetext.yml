@@ -262,17 +262,17 @@ es: &DEFAULT_ES
       - name: "Celso Marca"
         role: "Presidente del Directorio"
         image: assets/img/team/CelsoMarca.jpeg
-      - name: "María"
-        role: "Directorio de la Fundación"
-        image: assets/img/team/Maria.jpeg
-      - name: "Modesta"
-        role: "Directorio de la Fundación"
+      - name: "Modesta Veliz"
+        role: "Vicepresidente del Directorio"
         image: assets/img/team/ModestaVeliz.jpeg
-      - name: "Max"
-        role: "Directorio de la Fundación"
+      - name: "Maximo Calle"
+        role: "Tesorero del Directorio"
         image: assets/img/team/Max.jpeg
-      - name: "Equipo Alas de Paz"
-        role: "Directorio de la Fundación"
+      - name: "María"
+        role: "Vocal del Directorio"
+        image: assets/img/team/Maria.jpeg            
+      - name: "Personal de la Fundación"
+        role: "Director, Responsable de Patrocinio y Tutores"
         image: assets/img/team/Equipo_Alas_de_Paz.JPG
   contact:
     title: "Contáctenos"
