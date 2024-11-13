@@ -207,17 +207,17 @@ es: &DEFAULT_ES
       - title: "Nuestro Comienzo"
         year: "2004-2006"
         desc: "En el 2004 se fundó la iglesia Evangélica Jesús es el camino. En 2006 inició el primer Centro de Desarrollo Integral (CDI) en la zona de la Tamborada de la ciudad de Cochabamba en colaboración de Compassion Internacional."
-        image: assets/img/timeline/edificioIglesia.jpg
+        image: assets/img/timeline/edificioIglesia.jpeg
         alt: Nuestro Comienzo
       - title: "Inicio de la Fundación Alas de Paz"
         year: "2016-2018"
         desc: "La Fundación Alas de Paz (FAP) fue constituida en Cochabamba, Bolivia, el 26 de octubre de 2016 con Personería Jurídica RS 148619. Es una organización privada sin fines de lucro que busca promover el desarrollo integral en poblaciones vulnerables mediante la ejecución de proyectos en áreas educativas, alimentarias y sociales. Inició actividades el 7 de enero de 2018."
-        image: assets/img/timeline/inicio.jpg
+        image: assets/img/timeline/inicio.jpeg
         alt: Inicio de la Fundación Alas de Paz
       - title: "Crecimiento y Servicio"
         year: "2019 a la fecha"
         desc: "En 2019 nació el segundo proyecto en la zona de Azirumarca. Actualmente la Fundación desarrolla el servicio a niños, adolescentes y jóvenes y se abre a buscar apoyo financiero nacional e internacional para desarrollar programas y proyectos que ha emprendido."
-        image: assets/img/timeline/servicio.jpg
+        image: assets/img/timeline/servicio.jpeg
         alt: Crecimiento y Servicio
         # you can enforce the alignment
         # align: right
