@@ -257,11 +257,11 @@ es: &DEFAULT_ES
   about:
     title: "Únete"
     text: "Se parte del desarrollo en nuevas generaciones para Bolivia ❤💛💚 y el mundo."
-    body: "[Contactándonos al whatsapp para apoyar.](https://wa.me/+59168583327)"
+    body: "[Contactándonos al whatsapp +59168583327 para apoyar.](https://wa.me/+59168583327)"
     section: unete
   contact:
     title: "Contáctenos"
-    text: "[Contactándonos al whatsapp para apoyar.](https://wa.me/+59168583327)"
+    text: "[Contactándonos al whatsapp +59168583327 para apoyar.](https://wa.me/+59168583327)"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
