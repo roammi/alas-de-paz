@@ -1,18 +1,17 @@
 ---
 title: Programa Educación Formal
 subtitle: Educación Inicial y Capacitación Técnica.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+image: assets/img/portfolio/educacion.jpg
+alt: Educación Inicial y Capacitación Técnica.
 
 caption:
-  title: Rducación Formal
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Educación Inicial y Capacitación Técnica
+  subtitle: Educación Formal
+  thumbnail: assets/img/portfolio/educacion.jpg
 ---
-1. Pasitos Firmes
-2. Centro de Excelencia Técnica
 
 {:.list-inline}
-- Fecha: Octubre 2024
-- Estado: A iniciar
+- Pasitos Firmes
+- Centro de Excelencia Técnica
+- Año: 2024
 
