@@ -1,13 +1,13 @@
 ---
 title: Programa Educación Formal
 subtitle: Educación Inicial y Capacitación Técnica.
-image: assets/img/portfolio/educacion.jpg
+image: assets/img/portfolio/educacion.jpeg
 alt: Educación Inicial y Capacitación Técnica.
 
 caption:
   title: Educación Inicial y Capacitación Técnica
   subtitle: Educación Formal
-  thumbnail: assets/img/portfolio/educacion.jpg
+  thumbnail: assets/img/portfolio/educacion.jpeg
 ---
 
 {:.list-inline}
