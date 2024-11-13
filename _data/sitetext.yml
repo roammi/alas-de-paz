@@ -235,8 +235,8 @@ es: &DEFAULT_ES
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "El Directorio y el Personal de la Fundación trabajan arduamente para sembra paz en los niños y jóvenes."
+    subtext: Comprometidos para sembrar paz y desarrollar generaciones integras para el progreso de Bolivia.
     section: equipo
     people:
       - name: "Celso Marca"
