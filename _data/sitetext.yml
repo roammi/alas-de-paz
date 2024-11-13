@@ -230,15 +230,15 @@ es: &DEFAULT_ES
 "
     section: unete
 
-  clients:
-    title: "Nuestros aliados"
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "Compassion"
-        url: https://www.compassion.com
-        logo: assets/img/clients/Compassion_Logo.png
+  #clients:
+  #  title: "Nuestros aliados"
+  #  section: clientes
+  #  max-height: 100px
+  #  horizontal-scrolling: "" #"yes/no"
+  #  list:
+  #    - title: "Compassion"
+  #      url: https://www.compassion.com
+  #      logo: assets/img/clients/Compassion_Logo.png
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
