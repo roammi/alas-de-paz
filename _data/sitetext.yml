@@ -204,34 +204,30 @@ es: &DEFAULT_ES
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
+      - title: "Nuestro Comienzo"
+        year: "2004-2006"
+        desc: "En el 2004 se fundó la iglesia Evangélica Jesús es el camino. En 2006 inició el primer Centro de Desarrollo Integral (CDI) en la zona de la Tamborada de la ciudad de Cochabamba en colaboración de Compassion Internacional."
+        image: assets/img/timeline/edificioIglesia.jpg
+        alt: Nuestro Comienzo
+      - title: "Inicio de la Fundación Alas de Paz"
+        year: "2016-2018"
+        desc: "La Fundación Alas de Paz (FAP) fue constituida en Cochabamba, Bolivia, el 26 de octubre de 2016 con Personería Jurídica RS 148619. Es una organización privada sin fines de lucro que busca promover el desarrollo integral en poblaciones vulnerables mediante la ejecución de proyectos en áreas educativas, alimentarias y sociales. Inició actividades el 7 de enero de 2018."
+        image: assets/img/timeline/inicio.jpg
+        alt: Inicio de la Fundación Alas de Paz
+      - title: "Crecimiento y Servicio"
+        year: "2019 a la fecha"
+        desc: "En 2019 nació el segundo proyecto en la zona de Azirumarca. Actualmente la Fundación desarrolla el servicio a niños, adolescentes y jóvenes y se abre a buscar apoyo financiero nacional e internacional para desarrollar programas y proyectos que ha emprendido."
+        image: assets/img/timeline/servicio.jpg
+        alt: Crecimiento y Servicio
         # you can enforce the alignment
-        align: right
+        # align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
     title: "Únete"
-    text: "Se parte de hacer crecer 🌳 el impacto impacto en nuevas generaciones para Bolivia y el mundo."
-    body: "- Apoya con QR <br/>- Contactándonos al whatsapp"
+    text: "Se parte del desarrollo en nuevas generaciones para Bolivia ❤💛💚 y el mundo."
+    body: "[Contactándonos al whatsapp para apoyar.](https://wa.me/+59168583327)
+"
     section: unete
 
   clients:
@@ -243,15 +239,6 @@ es: &DEFAULT_ES
       - title: "Compassion"
         url: https://www.compassion.com
         logo: assets/img/clients/Compassion_Logo.png
-      #- title: "designmodo"
-      #  url: https://github.com/raviriley/agency-jekyll-theme
-      #  logo: assets/img/clients/designmodo.jpg
-      #- title: "themeforest"
-      #  url: https://github.com/raviriley/agency-jekyll-theme
-      #  logo: assets/img/clients/themeforest.jpg
-      #- title: "Creative Market"
-      #  url: https://github.com/raviriley/agency-jekyll-theme
-      #  logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
@@ -292,15 +279,11 @@ es: &DEFAULT_ES
   footer:
     # legal: "Política de Privacidad"
     social:
-      #- url: https://twitter.com
-      #  icon: "fab fa-twitter"
+      - url: https://wa.me/+59168583327
+        icon: "fab fa-whatsapp"
       - url: https://www.facebook.com/share/qGD9muUgZKdGgbKu/?mibextid=qi2Omg
         icon: "fab fa-facebook-f"
-      #- url: https://linkedin.com
-      #  icon: "fab fa-linkedin-in"
-      #- url: https://github.com/raviriley/agency-jekyll-theme
-      #  icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/fundacion_alas_de_paz
         icon: "fab fa-instagram"
 es-ES:
   <<: *DEFAULT_ES
