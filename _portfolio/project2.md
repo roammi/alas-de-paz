@@ -1,19 +1,16 @@
 ---
 title: Programa Educación Complementaria
 subtitle: Apoyo escolar, orientación vocacional y escuela para padres.
-image: assets/img/portfolio/02-full.jpg
-alt: Ed. Compl.
+image: assets/img/portfolio/complementaria.jpg
+alt: Programa Educación Complementaria
 
 caption:
-  title: Educación Complementaria
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title:  Apoyo escolar, orientación vocacional y escuela para padres
+  subtitle: Educación Complementaria
+  thumbnail: assets/img/portfolio/complementaria.jpg
 ---
-1. Éxito escolar
-2. Mi llamado
-3. Escuela de la crianza positiva 
-
 {:.list-inline}
-- Fecha: Octubre 2020
-- Estado: A empezar
-
+- Éxito escolar
+- Mi llamado
+- Escuela de la crianza positiva
+- Año: 2024
