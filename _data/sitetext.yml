@@ -261,7 +261,7 @@ es: &DEFAULT_ES
     section: unete
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "[Contactándonos al whatsapp para apoyar.](https://wa.me/+59168583327)"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
