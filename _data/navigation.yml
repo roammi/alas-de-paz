@@ -50,9 +50,7 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctanos"
       section: contacto
-    - title: "Eventos"
-      section: informacion
-    #- title: "Fuente de la plantilla"
+    #- title: "Facebook"
     #  url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
