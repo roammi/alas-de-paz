@@ -34,7 +34,7 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Español
 # -------
 es: &DEFAULT_ES
   nav:
@@ -50,6 +50,8 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctanos"
       section: contacto
+    - title: "Eventos"
+      section: informacion
     #- title: "Fuente de la plantilla"
     #  url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
