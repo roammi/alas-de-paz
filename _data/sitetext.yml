@@ -7,7 +7,7 @@
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
-# English (default)
+# Inglés (por defecto)
 # -----------------
 en: &DEFAULT_EN
   header:
@@ -167,7 +167,7 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Español 
 # -------
 es: &DEFAULT_ES
   header:
@@ -207,7 +207,7 @@ es: &DEFAULT_ES
       - title: "Nuestro Comienzo"
         year: "2004-2006"
         desc: "En el 2004 se fundó la iglesia Evangélica Jesús es el camino. En 2006 inició el primer Centro de Desarrollo Integral (CDI) en la zona de la Tamborada de la ciudad de Cochabamba en colaboración de Compassion Internacional."
-        image: assets/img/timeline/edificioIglesia.jpeg
+        image: assets/img/timeline/1equipo.jpeg
         alt: Nuestro Comienzo
       - title: "Inicio de la Fundación Alas de Paz"
         year: "2016-2018"
