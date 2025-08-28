@@ -257,7 +257,7 @@ es: &DEFAULT_ES
   about:
     title: "Únete"
     text: "Se parte del desarrollo en nuevas generaciones para Bolivia ❤💛💚 y el mundo."
-    body: "[Contactándonos al whatsapp +59168583327 para apoyar.](https://wa.me/+59168583327)"
+    body: "<img src="assets/img/image (3).png" alt="Fundación Alas de Paz" style="width: 270px; height: auto;"></br>[Contactándonos al whatsapp +59168583327 para apoyar.](https://wa.me/+59168583327)"
     section: unete
   contact:
     title: "Contáctenos"
