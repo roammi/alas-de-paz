@@ -283,6 +283,8 @@ es: &DEFAULT_ES
         icon: "fab fa-facebook-f"
       - url: https://www.instagram.com/fundacion_alas_de_paz
         icon: "fab fa-instagram"
+      - url: https://www.tiktok.com/@alas.de.paz0
+        icon: "fab fa-tiktok"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
