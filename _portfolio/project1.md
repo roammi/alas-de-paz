@@ -1,7 +1,7 @@
 ---
-title: Programa Educación Formal
-subtitle: Educación Inicial y Capacitación Técnica.
-image: assets/img/portfolio/educacion1.jpg
+title: Programa Educación informal
+subtitle: Educación Inicial y nivelación escolar
+image: assets/img/portfolio/educacion1.png
 alt: Educación Inicial y Capacitación Técnica.
 
 caption:
@@ -21,6 +21,7 @@ caption:
   title: Educación Inicial y Capacitación Técnica
   subtitle: Educación Formal
   thumbnail: assets/img/portfolio/educacion3.jpeg
+  image: assets/img/portfolio/educacion3.png
 ---
 
 {:.list-inline}
