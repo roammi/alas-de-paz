@@ -4,7 +4,7 @@ subtitle: Educación Inicial y nivelación escolar
 image: assets/img/portfolio/educacion1.png
 
 caption:
-  title:  Apoyo escolar y Educación inicial
+  title:  Programa de apoyo escolar
   subtitle: Nivelación académica 
   thumbnail: assets/img/portfolio/educacion3.png
 ---
