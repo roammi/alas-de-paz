@@ -16,12 +16,11 @@ caption:
 - Año: 2025
 ---
 Nuestro objetivo es que los niños desde la etapa inicial, sean desarrollados con una educación integral, que les permita contar con cimientos sólidos para una vida exitosa.
-- Educación Inicial y soporte educativo
-
+thumbnail: assets/img/portfolio/educacion2.jpeg
 caption:
   title: Educación Inicial y Capacitación Técnica
   subtitle: Educación Formal
-  thumbnail: assets/img/portfolio/educacion.jpeg
+  thumbnail: assets/img/portfolio/educacion3.jpeg
 ---
 
 {:.list-inline}
