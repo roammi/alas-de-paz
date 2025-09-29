@@ -5,15 +5,13 @@ image: assets/img/portfolio/CDI13.png
 alt: CDI
 
 caption:
-  title:  Apoyo escolar, orientación vocacional y escuela para padres
-  subtitle: Educación Complementaria
-  thumbnail: assets/img/portfolio/complementaria.jpg
+  title:  CDI
+  subtitle: Centro de desarrollo Integral
+  thumbnail: assets/img/portfolio/CDI13.png
 ---
 {:.list-inline}
-- Éxito escolar
-- Mi llamado
-- Escuela de la crianza positiva
-- Año: 2024
+- Peomovemos el desarrollo integral de niños y jóvenes vulnerables formando líderes preparados para toda buena obra que impacten en su comunidad y sean agentes de cambio.
+- Año: 2025
 
 <!DOCTYPE html>
 <html lang="es">
