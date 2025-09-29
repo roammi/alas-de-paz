@@ -1,7 +1,7 @@
 ---
 title: Programa Apoyo Escolar
 subtitle: Educación Inicial y nivelación escolar
-image: assets/img/portfolio/educacion1.png; assets/img/portfolio/educacion4.png
+image: assets/img/portfolio/educacion1.png
 
 caption:
   title:  Apoyo escolar educación inicial
@@ -27,3 +27,16 @@ image: assets/img/portfolio/educacion4.png
 - Apoyo escolar
 - Centro de Excelencia académica
 - Año: 2025
+---
+const slides = document.querySelector('.slides');
+const totalSlides = document.querySelectorAll('.slides img').length;
+let index = 0;
+
+function showNextSlide() {
+  index++;
+  if (index >= totalSlides) index = 0;
+  slides.style.transform = `translateX(${-index * 100}%)`;
+}
+
+// Cambia cada 3 segundos
+setInterval(showNextSlide, 3000);
