@@ -256,7 +256,7 @@ es: &DEFAULT_ES
         image: assets/img/team/Equipo_Alas_de_Paz.JPG
   about:
     title: "Únete"
-    text: "Se parte del desarrollo en nuevas generaciones para Bolivia ❤💛💚 apoyanos a este QR:"
+    text: "Con tus alas, ellos podrán volar más alto. ❤💛💚 Dona esperanza, dona Paz:"
     body: '<img src="assets/img/imageqr.png" alt="Fundación Alas de Paz" style="width: 270px; height: auto;">'
     section: unete
   contact:
