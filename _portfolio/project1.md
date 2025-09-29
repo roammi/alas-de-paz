@@ -12,16 +12,17 @@ caption:
 
 {:.list-inline}
 - Pasitos Firmes
-- Centro de Excelencia Técnica
-- Año: 2024
+- Apoyo escolar especializado
+- Año: 2025
 ---
-title: Nuestro objetivo
-subtitle: Es que los niños desde la etapa inicial, sean desarrollados con una educación integral, que les permita contar con cimientos sólidos para una vida exitosa.
-image: assets/img/portfolio/educacion1.png
-image: assets/img/portfolio/educacion2.png
-image: assets/img/portfolio/educacion3.png
-image: assets/img/portfolio/educacion4.png
-alt: Educación Inicial y soporte educativo
+caption:
+  title: Nuestro objetivo
+  subtitle: Es que los niños desde la etapa inicial, sean desarrollados con una educación integral, que les permita contar con cimientos sólidos para una vida exitosa.
+  image: assets/img/portfolio/educacion1.png
+  image: assets/img/portfolio/educacion2.png
+  image: assets/img/portfolio/educacion3.png
+  image: assets/img/portfolio/educacion4.png
+  alt: Educación Inicial y soporte educativo
 
 caption:
   title: Educación Inicial y Capacitación Técnica
