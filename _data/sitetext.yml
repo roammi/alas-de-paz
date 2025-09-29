@@ -193,7 +193,7 @@ es: &DEFAULT_ES
         
   portfolio:
     title: "Programas"
-    text: "Tenemos 3 programas pilares de la fundación:"
+    text: "Tenemos 2 programas pilares de la fundación:"
     section: portafolio
     closebutton: "Cerrar Programa"
 
