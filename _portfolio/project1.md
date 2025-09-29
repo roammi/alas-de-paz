@@ -10,12 +10,14 @@ caption:
 ---
 
 {:.list-inline}
-- Pasitos Firmes, Apoyo escolar, Orientación vocacional
 - Apoyo escolar especializado
-- Año: 2025
+- Volando alto
 ---
 Nuestro objetivo es que los niños desde la etapa inicial, sean desarrollados con una educación integral, que les permita contar con cimientos sólidos para una vida exitosa.
 ---
+title: Apoyo personalizado
+subtitle: Continuo y lúdico
+image: assets/img/portfolio/educacion4.png
   thumbnail: assets/img/portfolio/educacion4.png
 ---
 
