@@ -43,10 +43,10 @@ image: assets/img/portfolio/educacion4.png
   <!-- Carrusel -->
   <div class="carousel">
     <div class="slides">
-      <img src="https://picsum.photos/id/1018/800/400" alt="Imagen 1">
-      <img src="https://picsum.photos/id/1025/800/400" alt="Imagen 2">
-      <img src="https://picsum.photos/id/1039/800/400" alt="Imagen 3">
-      <img src="https://picsum.photos/id/1043/800/400" alt="Imagen 4">
+      <img src="assets/img/portfolio/educacion1.png" alt="Imagen 1">
+      <img src="assets/img/portfolio/educacion3.png" alt="Imagen 2">
+      <img src="assets/img/portfolio/educacion4.png" alt="Imagen 3">
+      <img src="assets/img/portfolio/educacion5.png" alt="Imagen 4">
     </div>
   </div>
 
