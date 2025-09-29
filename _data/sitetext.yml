@@ -170,7 +170,7 @@ en-AU:
 # Español 
 # -------
 es: &DEFAULT_ES
-  portada:
+  header:
     title: ¡Bienvenido!
     text: '<img src="assets/img/logo trans.png" alt="Fundación Alas de Paz" style="width: 270px; height: auto;">'
     button: Conoce más
