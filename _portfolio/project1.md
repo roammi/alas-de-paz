@@ -1,13 +1,10 @@
 ---
-title: Programa Educación informal
+title: Programa Apoyo Escolar
 subtitle: Educación Inicial y nivelación escolar
 image: assets/img/portfolio/educacion1.png
-alt: Educación Inicial y Capacitación Técnica.
 
 caption:
-  title: Educación Inicial y Capacitación Técnica
-  subtitle: Educación Formal
-  thumbnail: assets/img/portfolio/educacion.jpeg
+  thumbnail: assets/img/portfolio/educacion3.png
 ---
 
 {:.list-inline}
@@ -16,12 +13,7 @@ caption:
 - Año: 2025
 ---
 Nuestro objetivo es que los niños desde la etapa inicial, sean desarrollados con una educación integral, que les permita contar con cimientos sólidos para una vida exitosa.
-thumbnail: assets/img/portfolio/educacion2.jpeg
-caption:
-  title: Educación Inicial y Capacitación Técnica
-  subtitle: Educación Formal
-  thumbnail: assets/img/portfolio/educacion3.jpeg
-  image: assets/img/portfolio/educacion3.png
+Image: assets/img/portfolio/educacion4.jpeg
 ---
 
 {:.list-inline}
