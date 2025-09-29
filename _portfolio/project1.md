@@ -43,10 +43,10 @@ image: assets/img/portfolio/educacion4.png
   <!-- Carrusel -->
   <div class="carousel">
     <div class="slides">
-      <img src="assets/img/portfolio/educacion1.png" alt="Imagen 4" width="800" height="800">
-      <img src="assets/img/portfolio/educacion3.png" alt="Imagen 6" width="800" height="800">
-      <img src="assets/img/portfolio/educacion4.png" alt="Imagen 7" width="800" height="800">
-      <img src="assets/img/portfolio/educacion5.png" alt="Imagen 9" width="800" height="800">
+      <img src="assets/img/portfolio/educacion7.png" alt="Imagen 1" width="800" height="800">
+      <img src="assets/img/portfolio/educacion9.png" alt="Imagen 2" width="800" height="800">
+      <img src="assets/img/portfolio/educacion4.png" alt="Imagen 3" width="800" height="800">
+      <img src="assets/img/portfolio/educacion6.png" alt="Imagen 4" width="800" height="800">
     </div>
   </div>
 
